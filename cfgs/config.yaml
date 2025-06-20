@@ -9,7 +9,7 @@ defaults:
 num_iters: 2000
 test_interval: 10
 lr: 2e-3
-batch_size: 32
+batch_size: 256
 seed: 42
 init_val: 0.1
 test_only: false
